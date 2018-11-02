@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "199a4458a6aa4187d7b415223e1282b8"
+build_time: [1541163901, 425415000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/SwipeCollectioView/SwipeCollectioView/SwipeCollection.swift": [1541163872, 0]
+  "/Users/sriramprasad/Dev/rough/SwipeCollectioView/SwipeCollectioView/ViewController.swift": [1541155194, 0]
+  "/Users/sriramprasad/Dev/rough/SwipeCollectioView/SwipeCollectioView/AppDelegate.swift": [1541162546, 0]
